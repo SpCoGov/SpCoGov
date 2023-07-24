@@ -27,7 +27,7 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=TailwindCSS&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
-[![IntelliJ IDEA](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)](https://img.shields.io/badge/IntelliJ%20IDEA-088bf9?logo=intellijidea)
+[![IntelliJ IDEA]([https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff](https://img.shields.io/badge/IntelliJ%20IDEA-088bf9?logo=intellijidea))](https://img.shields.io/badge/IntelliJ%20IDEA-088bf9?logo=intellijidea)
 
 **GitHub Stats:**
 
