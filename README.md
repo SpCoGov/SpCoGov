@@ -16,8 +16,11 @@
 
 **Frameworks and Tools:**
 
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-088bf9?logo=intellijidea)
+![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff)
 
 **GitHub Stats:**
 
