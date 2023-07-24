@@ -12,6 +12,7 @@
 
 **Languages:**
 
+![Java](https://img.shields.io/badge/Java-5e7b92?logo=java&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
 **Frameworks and Tools:**
