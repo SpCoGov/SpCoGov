@@ -8,7 +8,7 @@
 **About Me:**
 
 [![GitHub Stars](https://img.shields.io/github/stars/SpCoGov?color=2da44e&label=GitHub%20Stars&logo=Github)](https://github.com/SpCoGov)
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=SpCoGov.SpCoGov)](https://github.com/SpCoGov)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SpCoGov.SpCoGov)](https://github.com/SpCoGov)
 
 **Languages:**
 
