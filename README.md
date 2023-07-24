@@ -5,23 +5,6 @@
                               -- 一个想躺平的小开发
 </pre>
 
-<!--
-**SpCoGov/SpCoGov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 **About Me:**
@@ -44,7 +27,7 @@ Here are some ideas to get you started:
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=TailwindCSS&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
-![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
+[![IntelliJ IDEA](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)](https://img.shields.io/badge/IntelliJ%20IDEA-088bf9?logo=intellijidea)
 
 **GitHub Stats:**
 
