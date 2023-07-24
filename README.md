@@ -2,10 +2,8 @@
 
 <pre>
 吾志所向，一往无前。人为刀殂，我为海绵。
-                              -- 一个想躺平的小开发
+                              -- SpongeCouna
 </pre>
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 **About Me:**
 
