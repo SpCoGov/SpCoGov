@@ -27,6 +27,7 @@
 **Learning:**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c++&logoColor=fff)
 
 **GitHub Stats:**
 
