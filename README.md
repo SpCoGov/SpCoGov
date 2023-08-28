@@ -24,12 +24,6 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff)
 
-**Learning:**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff)
-
 **GitHub Stats:**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SpCoGov&show_icons=true&hide_title=true&count_private=true)
