@@ -3,7 +3,7 @@
 <pre>
 「何かを選ぶことこそが、成長の最大の糧となる」
 The strongest principle of growth lies in the human choice.
-                              -- SpongeCouna
+                                                            -- SpongeCouna
 </pre>
 
 **About Me:**
