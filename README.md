@@ -1,7 +1,8 @@
 ### Hi there, I'm SpongeCouna 👋
 
 <pre>
-吾志所向，一往无前。人为刀殂，我为海绵。
+「何かを選ぶことこそが、成長の最大の糧となる」
+The strongest principle of growth lies in the human choice.
                               -- SpongeCouna
 </pre>
 
