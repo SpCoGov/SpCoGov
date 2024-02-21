@@ -13,7 +13,7 @@ The strongest principle of growth lies in the human choice.
 
 **Languages:**
 
-![Java](https://img.shields.io/badge/Java-5e7b92?logo=java&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![C Sharp](https://img.shields.io/badge/C%20Sharp-9c75d5?logo=csharp&logoColor=fff)
 
