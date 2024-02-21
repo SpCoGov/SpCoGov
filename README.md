@@ -19,11 +19,14 @@ The strongest principle of growth lies in the human choice.
 
 **Frameworks and Tools:**
 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-088bf9?logo=intellijidea)
-![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-07C3F2?logo=intellijidea)
+![PyCharm](https://img.shields.io/badge/PyCharm-3DEA62?logo=PyCharm&logoColor=fff)
+![Rider](https://img.shields.io/badge/Rider-FC801D?logo=Rider&logoColor=fff)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-cb95f8?logo=VisualStudio&logoColor=fff)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=VisualStudioCode&logoColor=fff)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff)
 
 **GitHub Stats:**
